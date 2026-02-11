@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá! Meu nome é Heitor Silva Medeiros. Atualmente estudo Ciência da Computação na UFABC.
+Olá! Meu nome é Heitor Silva Medeiros (pronomes: ele/dele). Atualmente estudo Ciência da Computação na UFABC.
 
 Tenho interesse em ingressar em áreas de desenvolvimento de software, suporte ou dados.
 
-Atualmente não tenho projetos pessoais prontos, mas estou aprendendo.
+Atualmente não tenho projetos pessoais prontos, mas estou aprendendo. Tenho conhecimento intermediário em SQL, e básico em Python e Java.

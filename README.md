@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Meu nome é Heitor Silva Medeiros (pronomes: ele/dele). Atualmente estudo Engenharia de Computação na Faculdade Engenheiro Salvador Arena.
+Meu nome é Heitor Silva Medeiros (pronomes: ele/dele). Atualmente estudo na Universidade Federal do ABC.
 
 Tenho interesse em ingressar em áreas de desenvolvimento de software, suporte ou dados.
 
